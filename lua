@@ -4,7 +4,7 @@ local Arqel = loadstring(game:HttpGet("https://cdn.jnkie.com/arquelui.lua"))()
 
 Arqel.Appearance.Title = "Galaxy HUB"
 
-Arqel.Appearance.Icon = "rbxassetid://134697043118282"
+Arqel.Appearance.Icon = "rbxassetid://97629938046513"
 
 Arqel.Links.Discord = "https://discord.gg/CjM6gnpj2"
 
