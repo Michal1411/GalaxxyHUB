@@ -8,7 +8,7 @@ Arqel.Appearance.Icon = "rbxassetid://134697043118282"
 
 Arqel.Links.Discord = "https://discord.gg/CjM6gnpj2"
 
-Arqel.Storage.FileName = "Jnkie_key"
+Arqel.Storage.FileName = "Galaxy_key"
 
 -- Arqel.Options.KeylessUI = true
 
